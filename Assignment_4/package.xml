@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>Assignment_4</name>
+  <name>Assignment_45</name>
   <version>1.0.0</version>
   <description>Final solution for assignment 4. The robot has 3 extra sonars with a node that subscribes to the sonar readings</description>
 
